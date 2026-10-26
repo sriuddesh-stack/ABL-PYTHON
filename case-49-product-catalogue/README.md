@@ -61,7 +61,7 @@ DISPLAY total
 - A valid product with price Rs. 10 and stock 4 should have value Rs. 40 and show a replenishment warning.
 - A product with stock 0 should have value Rs. 0 and show a replenishment warning.
 - A product with a negative price should be marked invalid and excluded from the total.
-- The sample data should produce a valid inventory total of Rs. 2,140.00.
+- The sample data should produce a valid inventory total of Rs. 1,900.00.
 
 ## Sample output
 ```text

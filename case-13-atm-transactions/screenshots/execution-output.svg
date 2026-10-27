@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="296" viewBox="0 0 1100 296">
+<rect width="1100" height="296" rx="18" fill="#141820"/>
+<rect x="18" y="18" width="1064" height="260" rx="12" fill="#1c222d" stroke="#566173" stroke-width="2"/>
+<circle cx="42" cy="42" r="6" fill="#e87979"/><circle cx="62" cy="42" r="6" fill="#e7c66b"/><circle cx="82" cy="42" r="6" fill="#82c98b"/>
+<text x="105" y="48" font-family="monospace" font-size="17" fill="#87cefa">Case 13 - ATM Transaction Sequence Simulation</text>
+<line x1="35" y1="65" x2="1065" y2="65" stroke="#566173"/>
+<text x="40" y="94" font-family="monospace" font-size="17" fill="#8bd5ca">$ python main.py</text>
+<text x="40" y="122" font-family="monospace" font-size="17" fill="#e1e8f0">&gt; Enter opening balance: Rs. 1000</text>
+<text x="40" y="150" font-family="monospace" font-size="17" fill="#e1e8f0">&gt; Enter transactions separated by spaces: D 500 W 200</text>
+<text x="40" y="178" font-family="monospace" font-size="17" fill="#e1e8f0">Deposit accepted: Rs. 500.00</text>
+<text x="40" y="206" font-family="monospace" font-size="17" fill="#e1e8f0">Withdrawal accepted: Rs. 200.00</text>
+<text x="40" y="234" font-family="monospace" font-size="17" fill="#e1e8f0">Final balance: Rs. 1300.00</text>
+<text x="40" y="262" font-family="monospace" font-size="17" fill="#e1e8f0">Accepted: 2 Rejected: 0</text>
+</svg>

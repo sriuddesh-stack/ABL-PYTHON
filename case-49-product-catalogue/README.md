@@ -76,3 +76,9 @@ Total valid inventory value: Rs. 1900.00
 
 ## Conclusion
 The program demonstrates tuples, tuple unpacking, lists, loops, conditions, and arithmetic calculations for a simple catalogue audit.
+
+## Execution output capture
+
+![Sample execution output](screenshots/execution-output.svg)
+
+Test scenarios: [TEST_CASES.md](TEST_CASES.md). The image is a terminal-style rendering of a representative sample run; run `python main.py` locally to capture a native IDE/terminal screenshot if your instructor requires one.

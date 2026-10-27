@@ -37,3 +37,9 @@ Enter rows `[80, 70, 90]`, `[60, 75, 65]`, `[90, 85, 95]` → Student 3 is top p
 
 ## Conclusion
 The program demonstrates nested lists, nested loops, row-wise and column-wise calculations.
+
+## Execution output capture
+
+![Sample execution output](screenshots/execution-output.svg)
+
+Test scenarios: [TEST_CASES.md](TEST_CASES.md). The image is a terminal-style rendering of a representative sample run; run `python main.py` locally to capture a native IDE/terminal screenshot if your instructor requires one.

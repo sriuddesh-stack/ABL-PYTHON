@@ -40,3 +40,9 @@ ELSE: DISPLAY policy passed
 
 ## Conclusion
 This program demonstrates string methods, iteration, conditions, and lists.
+
+## Execution output capture
+
+![Sample execution output](screenshots/execution-output.svg)
+
+Test scenarios: [TEST_CASES.md](TEST_CASES.md). The image is a terminal-style rendering of a representative sample run; run `python main.py` locally to capture a native IDE/terminal screenshot if your instructor requires one.
